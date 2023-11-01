@@ -18,7 +18,7 @@
 
 # Download & Setup Instructions
 
-* 1 - Clone project: git clone https://github.com/prnv30/Swiftmart
+* 1 - Clone project: git clone https://github.com/prnv30/Swiftmart.git
 * 2 - cd Swiftmart
 * 3 - Create virtual environment: virtualenv myenv
 * 4 - myenv\scripts\activate
