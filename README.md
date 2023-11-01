@@ -1,4 +1,4 @@
-# PropShop Ecommerce Website With Django + React
+# PropShop Ecommerce Website Built With Django + React
 
 
 # Features
