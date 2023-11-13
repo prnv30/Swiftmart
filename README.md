@@ -1,7 +1,7 @@
-# PropShop Ecommerce Website Built With Django + React
+# Swiftmart Ecommerce Website Built With Django + React
 
 
-# Features
+# 🔎 Features
 * Full featured shopping cart
 * Product reviews and ratings
 * Top products carousel
@@ -16,7 +16,7 @@
 * PayPal / Credit card integration
 
 
-# Download & Setup Instructions
+# 👨🏽‍💻 Download & Setup Instructions
 
 * 1 - Clone project: git clone https://github.com/prnv30/Swiftmart.git
 * 2 - cd Swiftmart
@@ -25,6 +25,6 @@
 * 5 - pip install -r requirements.txt
 * 6 - python manage.py runserver
 
-# Install react modules
+### Install react modules
 * 1 - cd frontend
 * 2 - npm install
